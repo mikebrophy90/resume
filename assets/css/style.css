@@ -371,7 +371,7 @@ button[type="submit"] {
 .coming-soon-container{
     padding: 0;
     margin: 0;
-    height: 500px;
+    height: 200px;
 }
 
 .coming-soon{
@@ -383,8 +383,9 @@ button[type="submit"] {
 }
 
 .coming-soon h1{
-    font-size: 100px;
-    line-height: 500px;
+    
+    font-size: 30px;
+    line-height: 200px;
 }
 
 /* ----------------------------------------media queries */
@@ -396,6 +397,18 @@ button[type="submit"] {
     min-height: 240px;
     margin: 0 auto;
     max-width: 50%;
+}
+
+.coming-soon-container{
+    padding: 0;
+    margin: 0;
+    height: 500px;
+}
+
+.coming-soon h1{
+    
+    font-size: 100px;
+    line-height: 500px;
 }
 
 }
