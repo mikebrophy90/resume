@@ -366,6 +366,27 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
+/* ----------------------------------------coming soon */
+
+.coming-soon-container{
+    padding: 0;
+    margin: 0;
+    height: 500px;
+}
+
+.coming-soon{
+    font-family: "Exo", sans-serif;
+    text-align: center;
+    
+    
+    
+}
+
+.coming-soon h1{
+    font-size: 100px;
+    line-height: 500px;
+}
+
 /* ----------------------------------------media queries */
 
 @media(min-width: 992px) {
